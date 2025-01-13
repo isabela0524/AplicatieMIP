@@ -1,0 +1,3 @@
+Scaun,250.0
+Televizor,1500.0
+Laptop,2300.0,2070.0
